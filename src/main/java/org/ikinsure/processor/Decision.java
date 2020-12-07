@@ -1,4 +1,4 @@
-package org.ikinsure.medium.processor;
+package org.ikinsure.processor;
 
 public enum Decision {
     ADD(1, "Add matrices"),

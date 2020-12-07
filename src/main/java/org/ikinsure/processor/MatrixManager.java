@@ -1,4 +1,4 @@
-package org.ikinsure.medium.processor;
+package org.ikinsure.processor;
 
 public class MatrixManager {
 
